@@ -6,6 +6,10 @@
 </h2>
 
  Spirit is your one-stop solution for a wide range of home services. From rejuvenating massages to thorough home cleaning, we connect you with experienced and vetted partner.
+
+ Download on Play Store [https://play.google.com/store/apps/details?id=com.spirit.app](https://play.google.com/store/apps/details?id=com.spirit.app)
+ 
+ Download on App Store [https://apps.apple.com/id/app/spirit-layanan-rumah-tangga/id6743387922](https://apps.apple.com/id/app/spirit-layanan-rumah-tangga/id6743387922)
 </br>
 
 ## Screenshots
